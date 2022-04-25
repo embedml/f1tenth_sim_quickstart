@@ -4,7 +4,7 @@ Guide to get started with the [f1tenth simulator](https://github.com/f1tenth/f1t
 
 ### How to run F1Tenth Simulator
 
-Pull container from github container registry for easy access
+Pull container from EML packages
 ```
 docker pull ghcr.io/embedml/f1tenth_gym_ros:latest
 ```
